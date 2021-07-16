@@ -1,0 +1,10 @@
+.container--homepage {
+    height: 73vh;
+    background: rgb(3,2,37);
+    background: radial-gradient(circle, rgba(3,2,37,1) 42%, rgba(247,0,0,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

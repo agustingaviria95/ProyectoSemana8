@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.contenedor__footer{
+    height: 8vh;
+    background-color: rgb(192, 4, 4);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: "Work Sans", sans-serif;
+    font-size: 14px;
+}
+.footer-titulo {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.parrafo-esp{
+    font-weight: 500;
+}
